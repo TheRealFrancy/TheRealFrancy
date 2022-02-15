@@ -4,7 +4,7 @@ Hi there 👋
 
 
 
-- 🌱 I’m currently learning python, JavaScript ,Java
+- 📕 I’m currently learning python, JavaScript ,Java
 - 📫 How to reach me: https://t.me/TheRealFrancy01
 - ♂️ Pronouns: he/him
 
