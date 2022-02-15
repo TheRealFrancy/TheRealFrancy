@@ -6,7 +6,7 @@ Hi there 👋
 
 - 🌱 I’m currently learning python, JavaScript ,Java
 - 📫 How to reach me: https://t.me/TheRealFrancy01
-- 😄 Pronouns: he/him
+- ♂️ Pronouns: he/him
 
 
 ![TheRealFrancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealFrancy&show_icons=true&theme=highcontrast)
